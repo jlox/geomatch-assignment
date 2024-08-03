@@ -1,0 +1,98 @@
+[
+  {
+    "group_id": 6,
+    "cases": [
+      {
+        "case_id": 6,
+        "num_individuals": 1
+      }
+    ],
+    "status": 200
+  },
+  {
+    "status": 200,
+    "new_group_id": 5
+  },
+  {
+    "status": 200,
+    "new_group_ids": [
+      5,
+      6
+    ]
+  },
+  {
+    "status": 200,
+    "new_group_ids": [
+      6
+    ]
+  },
+  {
+    "status": 200,
+    "new_group_id": 5
+  },
+  {
+    "group_id": 7,
+    "cases": [
+      {
+        "case_id": 7,
+        "num_individuals": 3
+      }
+    ],
+    "status": 200
+  },
+  {
+    "status": 200,
+    "new_group_id": 1
+  },
+  {
+    "status": 200,
+    "new_group_ids": [
+      10,
+      11
+    ]
+  },
+  {
+    "group_id": 7,
+    "cases": [
+      {
+        "case_id": 7,
+        "num_individuals": 3
+      }
+    ],
+    "status": 200
+  },
+  {
+    "status": 200,
+    "new_group_id": 9
+  },
+  {
+    "status": 200,
+    "new_group_ids": [
+      8
+    ]
+  },
+  {
+    "group_id": 12,
+    "cases": [
+      {
+        "case_id": 12,
+        "num_individuals": 1
+      }
+    ],
+    "status": 200
+  },
+  {
+    "group_id": 9,
+    "cases": [
+      {
+        "case_id": 9,
+        "num_individuals": 2
+      },
+      {
+        "case_id": 12,
+        "num_individuals": 1
+      }
+    ],
+    "status": 200
+  }
+]

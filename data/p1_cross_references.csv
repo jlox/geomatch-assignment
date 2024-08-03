@@ -1,0 +1,14 @@
+from_case_id,to_case_id,from_case_size,to_case_size,from_to_relationship
+1,2,3,2,parent
+4,3,2,3,cousin
+2,1,2,3,child
+2,3,2,3,child
+3,4,3,2,cousin
+4,5,2,1,parent
+5,6,1,1,cousin
+6,3,1,3,cousin
+3,1,3,3,sibling
+7,13,3,3,cousin
+8,9,2,2,spouse
+10,11,1,1,spouse
+11,12,1,1,cousin

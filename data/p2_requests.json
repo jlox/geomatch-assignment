@@ -1,0 +1,92 @@
+[
+    {
+        "operation": "/get-group",
+        "body": {
+            "group_id": 6
+        }
+    },
+    {
+        "operation": "/link",
+        "body": {
+            "case_ids": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "operation": "/unlink",
+        "body": {
+            "group_id": 5
+        }
+    },
+    {
+        "operation": "/unlink",
+        "body": {
+            "group_id": 6
+        }
+    },
+    {
+        "operation": "/link",
+        "body": {
+            "case_ids": [
+                5,
+                6
+            ]
+        }
+    },
+    {
+        "operation": "/get-group",
+        "body": {
+            "group_id": 7
+        }
+    },
+    {
+        "operation": "/link",
+        "body": {
+            "case_ids": [
+                3,
+                1
+            ]
+        }
+    },
+    {
+        "operation": "/unlink",
+        "body": {
+            "group_id": 10
+        }
+    },
+    {
+        "operation": "/get-group",
+        "body": {
+            "group_id": 7
+        }
+    },
+    {
+        "operation": "/link",
+        "body": {
+            "case_ids": [
+                9,
+                12
+            ]
+        }
+    },
+    {
+        "operation": "/unlink",
+        "body": {
+            "group_id": 8
+        }
+    },
+    {
+        "operation": "/get-group",
+        "body": {
+            "group_id": 12
+        }
+    },
+    {
+        "operation": "/get-group",
+        "body": {
+            "group_id": 9
+        }
+    }
+]
